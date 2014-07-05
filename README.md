@@ -1,4 +1,4 @@
-android_device_cubietruck_cubietruck3
+android_device_cubietruck_cubieboard3
 =====================================
 
-Cubietruck 3 device tree.
+Cubieboard 3 device tree.
